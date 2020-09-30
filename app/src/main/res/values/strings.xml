@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QrCode</string>
+    <string name="msg_camera_framework_bug">抱歉，Android摄像头遇到问题。您可能需要重新启动设备。</string>
+
+</resources>
